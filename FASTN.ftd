@@ -8,7 +8,8 @@ favicon: /-/johndaison.github.io/fastn/favicon.ico
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: shaheen-senpai.github.io/fastn-cs-tail
 -- fastn.dependency: sarvom.github.io/holy-angel-typography
--- fastn.dependency: fastnui.trizwit.com
+-- fastn.dependency: fastnui.trizwit.com/UI-Components/Header/header-5 
+-- fastn.dependency: sarvom.github.io/holy-angel-typography 
 
 
 
